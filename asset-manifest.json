@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/detectort_app/static/css/main.f1806888.css",
+    "main.js": "/detectort_app/static/js/main.2b55d567.js",
+    "index.html": "/detectort_app/index.html",
+    "main.f1806888.css.map": "/detectort_app/static/css/main.f1806888.css.map",
+    "main.2b55d567.js.map": "/detectort_app/static/js/main.2b55d567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1806888.css",
+    "static/js/main.2b55d567.js"
+  ]
+}
